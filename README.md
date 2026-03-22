@@ -1,13 +1,12 @@
 ## Yo!
 
 ### Current Projects:
-Party Lights - Sourcing Parts
-Game Dev - Creating Sprites
+- Party Lights: Sourcing Parts
+- Game Dev: Creating Sprites
 
 ### Future Projects
-Creating my own website!
-
-Electric Skateboard
+- Creating my own website!
+- Electric Skateboard
 <!--
 **6thFavoriteGameDev/6thFavoriteGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
