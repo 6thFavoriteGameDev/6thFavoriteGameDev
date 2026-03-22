@@ -4,7 +4,7 @@
 - Party Lights: Sourcing Parts
 - Game Dev: Creating Sprites
 
-### Future Projects
+### Future Projects:
 - Creating my own website!
 - Electric Skateboard
 <!--
